@@ -1,14 +1,10 @@
 github_users:
-  - torvalds
-  - alshedivat
-
-repo_description_lines_max: 2
+  - caranathunge
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - caranathunge/promor
+  - caranathunge/asms2023 
+  - caranathunge/ismb2022
+  - caranathunge/promor_example_data
+  - caranathunge/promor_bioRxiv_preprint
+  - caranathunge/plot_circos
