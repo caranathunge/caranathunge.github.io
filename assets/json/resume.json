@@ -1,60 +1,94 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Chathurani Ranathunge,
+    "label": "Bioinformatics Scientist",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "caranathunge86@gmail.com",
+    "phone": "",
+    "url": "https://caranathunge.github.io",
+    "summary": "",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
+      "address": "",
+      "postalCode": "",
+      "city": "Houston",
       "countryCode": "US",
-      "region": "California"
+      "region": "Texas"
     },
     "profiles": [
       {
         "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "username": "caranathunge",
+        "url": "https://twitter.com/caranathunge"
       }
     ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "name": "University of Houston",
+      "position": "Lead Bioinformatics Scientist",
+      "url": "",
+      "startDate": "2024-05-15",
+      "endDate": "",
+      "summary": "Collaborated with multidisciplinary teams of molecular biologists, immunologists, and clinicians to design
+mRNA‐based vaccines for specific breast cancer subtypes and blood cancers."
+      "highlights": ["Developed an automated pipeline (R, Python) that reduced processing time for identifying gene fusion
+candidates for vaccines from hours to seconds, achieving over a 99% improvement in efficiency"]
     }
-  ],
-  "volunteer": [
+  {
+      "name": "Eastern Virginia Medical School",
+      "position": "Senior Research Associate, Computational Biology",
+      "url": "https://caranathunge.github.io/promor/",
+      "startDate": "2021-09-01",
+      "endDate": "2024-03-31",
+      "summary": "Collaborated with cross-functional teams, which included mass spectrometrists, computer scientists, and
+clinicians to analyze and interpret proteomics and clinical data to identify early detection biomarkers for
+prostate cancer."
+      "highlights": ["Developed the R package, promor, to streamline proteomics data analysis and
+machine learning based predictive modeling."]
+    }
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "name": "University of Florida",
+      "position": "Postdoctoral Associate",
+      "url": "",
+      "startDate": "2018-07-01",
+      "endDate": "2021-06-30",
+      "summary": "Collaborated with multi‑disciplinary research teams from 2 universities to study rapidly changing Arctic ecosystems."
+      "highlights": ["Developed and maintained NGS data pipelines for automated processing of genomics data (RAD-seq and
+target capture sequencing), facilitating downstream population genetic, phylogenetic, and statistical analysis of Arctic mosses."]
     }
-  ],
+    {
+      "name": "Mississippi State University",
+      "position": "Graduate Teaching/Research Assistant",
+      "url": "",
+      "startDate": "2013-08-19",
+      "endDate": "2018-05-04",
+      "summary": "Developed qPCR assays for short tandem repeat (STR) containing genes and performed molecular tests
+and procedures to investigate the role of STRs in gene expression regulation in common sunflower"
+      "highlights": ["Conducted statistical, differential expression, and enrichment analysis on bulk RNA-seq, qPCR, and PCR
+data identifying over 400 STRs involved in gene expression regulation in sunflowers, contributing to
+significant discoveries in plant biology and functional tandem repeats"]
+    }
+    {
+      "name": "Wayamba University of Sri Lanka",
+      "position": "Assistant Lecturer",
+      "url": "",
+      "startDate": "2011-11-01",
+      "endDate": "2013-07-01",
+      "summary": Taught 2 lower level and 4 upper-level laboratory courses, including Genetic Engineering."
+      "highlights": ["Supervised 2 undergraduate research projects resulting in 2 peer-reviewed publications."]
+    }
+  ],   
+
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
+      "institution": "Mississippi State University",
+      "location": "Mississippi, USA",
+      "url": "https://www.msstate.edu/",
+      "area": "Biological Sciences",
       "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
+      "startDate": "2013-08-19",
+      "endDate": "2018-05-04",
+      "score": "",
       "courses": ["Theory of Relativity"]
     }
   ],
