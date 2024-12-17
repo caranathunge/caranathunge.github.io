@@ -31,7 +31,7 @@
       "endDate": "",
       "summary": "Collaborated with multidisciplinary teams of molecular biologists, immunologists, and clinicians to design mRNA based vaccines for specific breast cancer subtypes and blood cancers",
       "highlights": ["Developed an automated pipeline with R and Python that reduced processing time for identifying gene fusion candidates for vaccines from hours to seconds, achieving over a 99% improvement in efficiency"]
-    }
+    },
   {
       "name": "Eastern Virginia Medical School",
       "position": "Senior Research Associate, Computational Biology",
@@ -40,7 +40,7 @@
       "endDate": "2024-03-31",
       "summary": "Collaborated with cross-functional teams, which included mass spectrometrists, computer scientists, and clinicians to analyze and interpret proteomics and clinical data to identify early detection biomarkers for prostate cancer.",
       "highlights": ["Developed the R package, promor, to streamline proteomics data analysis and machine learning based predictive modeling."]
-    }
+    },
     {
       "name": "University of Florida",
       "position": "Postdoctoral Associate",
@@ -49,7 +49,7 @@
       "endDate": "2021-06-30",
       "summary": "Collaborated with multi‑disciplinary research teams from 2 universities to study rapidly changing Arctic ecosystems.",
       "highlights": ["Developed and maintained NGS data pipelines for automated processing of genomics data (RAD-seq and target capture sequencing), facilitating downstream population genetic, phylogenetic, and statistical analysis of Arctic mosses."]
-    }
+    },
     {
       "name": "Mississippi State University",
       "position": "Graduate Teaching/Research Assistant",
@@ -58,7 +58,7 @@
       "endDate": "2018-05-04",
       "summary": "Developed qPCR assays for short tandem repeat (STR) containing genes and performed molecular tests and procedures to investigate the role of STRs in gene expression regulation in common sunflower",
       "highlights": ["Conducted statistical, differential expression, and enrichment analysis on bulk RNA-seq, qPCR, and PCR data identifying over 400 STRs involved in gene expression regulation in sunflowers, contributing to significant discoveries in plant biology and functional tandem repeats"]
-    }
+    },
     {
       "name": "Wayamba University of Sri Lanka",
       "position": "Assistant Lecturer",
