@@ -2,14 +2,13 @@
 layout: about
 title: about
 permalink: /
-subtitle: Bioinformatics Scientist | Computational Biologist
+subtitle: Lead Bioinformatics Scientist | University of Houston Sequencing & Gene Editing Core
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Lead Bioinformatics Scientist</p>
-    <p>University of Houston - Sequencing & Gene Editing Core</p>
+    <p>caranathunge86@gmail.com</p>
     <p>Houston, TX</p>
 
 news: true # includes a list of news items
