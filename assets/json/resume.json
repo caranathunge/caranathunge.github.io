@@ -38,11 +38,8 @@
       "url": "https://caranathunge.github.io/promor/",
       "startDate": "2021-09-01",
       "endDate": "2024-03-31",
-      "summary": "Collaborated with cross-functional teams, which included mass spectrometrists, computer scientists, and
-clinicians to analyze and interpret proteomics and clinical data to identify early detection biomarkers for
-prostate cancer."
-      "highlights": ["Developed the R package, promor, to streamline proteomics data analysis and
-machine learning based predictive modeling."]
+      "summary": "Collaborated with cross-functional teams, which included mass spectrometrists, computer scientists, and clinicians to analyze and interpret proteomics and clinical data to identify early detection biomarkers for prostate cancer."
+      "highlights": ["Developed the R package, promor, to streamline proteomics data analysis and machine learning based predictive modeling."]
     }
     {
       "name": "University of Florida",
@@ -51,8 +48,7 @@ machine learning based predictive modeling."]
       "startDate": "2018-07-01",
       "endDate": "2021-06-30",
       "summary": "Collaborated with multi‑disciplinary research teams from 2 universities to study rapidly changing Arctic ecosystems."
-      "highlights": ["Developed and maintained NGS data pipelines for automated processing of genomics data (RAD-seq and
-target capture sequencing), facilitating downstream population genetic, phylogenetic, and statistical analysis of Arctic mosses."]
+      "highlights": ["Developed and maintained NGS data pipelines for automated processing of genomics data (RAD-seq and target capture sequencing), facilitating downstream population genetic, phylogenetic, and statistical analysis of Arctic mosses."]
     }
     {
       "name": "Mississippi State University",
