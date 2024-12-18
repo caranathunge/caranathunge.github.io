@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Excited to share that that I've started a new role as the Lead Bioinformatics Scientist @ [UH Sequencing Core](https://uhseq.nsm.uh.edu/)! :smile:
+Excited to share that that I've started a new role as a Lead Bioinformatics Scientist @ the [UH Sequencing Core](https://uhseq.nsm.uh.edu/)! :dna:
