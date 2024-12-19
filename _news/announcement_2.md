@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-__promor v0.2.1__ is now available on __CRAN__! :rocket: [Check it out](https://cran.r-project.org/web/packages/promor/index.html).
+**promor v0.2.1** is now available on **CRAN**! :rocket: [Check it out](https://cran.r-project.org/web/packages/promor/index.html).

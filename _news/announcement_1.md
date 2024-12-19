@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-The final chapter of my dissertation is now published in __Biomolecules__! :tada: [Read the paper here](https://doi.org/10.3390/biom14080944).
+The final chapter of my dissertation is now published in **Biomolecules**! :tada: [Read the paper here](https://doi.org/10.3390/biom14080944).
