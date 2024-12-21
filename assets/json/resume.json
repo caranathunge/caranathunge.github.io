@@ -3,7 +3,7 @@
     "name": "Chathurani Ranathunge",
     "label": "Bioinformatics Scientist",
     "image": "",
-    "email": "caranathunge86@gmail.com"
+    "email": "caranathunge86@gmail.com",
     "phone": "",
     "url": "https://caranathunge.github.io",
     "summary": "",
@@ -44,14 +44,13 @@
       "url": "https://caranathunge.github.io/promor/",
       "startDate": "2021-09-01",
       "endDate": "2024-03-31",
-      "summary": "Digital patient project"
+      "summary": "Digital patient project",
       "highlights": [
-      "Collaborated with cross-functional teams, which included mass spectrometrists, computer scientists, and clinicians to analyze and interpret proteomics and clinical data to identify early detection biomarkers for prostate cancer.",
-      "Spearheaded a project to develop the R package, promor, to streamline proteomics data analysis and machine learning based predictive modeling, resulting in 2 peer reviewed publications and 3 presentations",
-      "Created reproducible reports using RMarkdown and Quarto to effectively communicate results from statistical data analysis to both technical and non-technical stakeholders.",
-      "Utilized git/GitHub for version control to ensure collaboration and code integrity within the teams"
-
-]
+        "Collaborated with cross-functional teams, which included mass spectrometrists, computer scientists, and clinicians to analyze and interpret proteomics and clinical data to identify early detection biomarkers for prostate cancer.",
+        "Spearheaded a project to develop the R package, promor, to streamline proteomics data analysis and machine learning based predictive modeling, resulting in 2 peer reviewed publications and 3 presentations",
+        "Created reproducible reports using RMarkdown and Quarto to effectively communicate results from statistical data analysis to both technical and non-technical stakeholders.",
+        "Utilized git/GitHub for version control to ensure collaboration and code integrity within the teams"
+      ]
     },
     {
       "name": "University of Florida",
