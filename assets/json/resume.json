@@ -29,10 +29,14 @@
       "url": "",
       "startDate": "2024-05-15",
       "endDate": "",
-      "summary": "Collaborated with multidisciplinary teams of molecular biologists, immunologists, and clinicians to design mRNA based vaccines for specific breast cancer subtypes and blood cancers",
-      "highlights": [
-        "Developed an automated pipeline with R and Python that reduced processing time for identifying gene fusion candidates for vaccines from hours to seconds, achieving over a 99% improvement in efficiency"
+      "summary": "",
+      "highlights": [      [
+      "Collaborated with multidisciplinary teams of molecular biologists, immunologists, and clinicians to design mRNA based vaccines for specific breast cancer subtypes and blood cancers"
+      ],
+      [
+      "Developed an automated pipeline with R and Python that reduced processing time for identifying gene fusion candidates for vaccines from hours to seconds, achieving over a 99% improvement in efficiency"
       ]
+
     },
     {
       "name": "Eastern Virginia Medical School",
