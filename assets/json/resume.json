@@ -122,20 +122,90 @@
   ],
   "awards": [
     {
-      "title": "",
+      "title": "Best Poster - Computational Mass Spectrometry",
+      "date": "2022",
+      "awarder": "International Society for Computational Biology",
+      "url": "https://www.iscb.org/ismb2022-general-info/award-winners",
+      "summary": ""
+    },
+    {
+      "title": "Emerging Scholar",
+      "date": "2019",
+      "awarder": "East Carolina University - Office for Equity and Diversity",
+      "url": "",
+      "summary": ""
+    },
+    {
+      "title": "Young Scientist Excellence Award",
+      "date": "2018",
+      "awarder": "Mid‑South Computational Biology and Bioinformatics Society",
+      "url": "https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-019-2618-7",
+      "summary": ""
+    },
+    {
+      "title": "Outstanding Graduate Research Assistant of the Year",
+      "date": "2018",
+      "awarder": "Department of Biological Sciences, Mississippi State University",
+      "url": "",
+      "summary": ""
+    },
+    {
+      "title": "W. D. Hamilton Award - Honorable Mention",
       "date": "2017",
-      "awarder": "",
+      "awarder": "Society for the Study of Evolution",
+      "url": "https://www.evolutionsociety.org/society-awards-and-prizes/the-w-d-hamilton-award.html",
+      "summary": ""
+    },
+    {
+      "title": "Outstanding Oral Presentation- Botany",
+      "date": "2017",
+      "awarder": "Botanical Society of America (Southeastern section)",
+      "url": "https://www.biology.msstate.edu/news/2017/04/chathurani-ranathunge-arachchige-wins-2-awards",
+      "summary": ""
+    },
+    {
+      "title": "Outstanding Oral Presentation - Cell and Molecular Biology",
+      "date": "2017",
+      "awarder": "Association of Southeastern Biologists",
+      "url": "https://www.sebiologists.org/previous-awardees.html",
+      "summary": ""
+    },
+    {
+      "title": "Outstanding Graduate Teaching Assistant of the Year",
+      "date": "2017",
+      "awarder": "Department of Biological Sciences, Mississippi State University",
+      "url": "",
+      "summary": ""
+    },
+    {
+      "title": "Oral Presentation - Second Place",
+      "date": "2016",
+      "awarder": "Mid‑South Computational Biology and Bioinformatics Society",
+      "url": "https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-016-1213-4",
+      "summary": ""
+    },
+    {
+      "title": "Graduate Student Research Award",
+      "date": "2016",
+      "awarder": "Botanical Society of America",
+      "url": "",
+      "summary": ""
+    },
+    {
+      "title": "Dr. Dharmawansa Senadhira Award for Best Performance in Biotechnology",
+      "date": "2012",
+      "awarder": "Wayamba university of Sri Lanka",
       "url": "",
       "summary": ""
     }
   ],
   "certificates": [
     {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
+      "name": "Computational Biology Certificate",
+      "date": "2018",
+      "issuer": "Institute for Genomics, Biocomputing, and Biotechnology, Mississippi State University",
+      "url": "https://www.igbb.msstate.edu/certificate.php",
+      "icon": ""
     }
   ],
   "publications": [
