@@ -26,8 +26,8 @@
     {
       "name": "University of Houston",
       "position": "Lead Bioinformatics Scientist",
-      "url": "",
-      "startDate": "2024-05-15",
+      "location": "Houston, TX",
+      "startDate": "2024",
       "endDate": "",
       "summary": "Gene fusions as candidates for cancer vaccines",
       "highlights": [
@@ -41,9 +41,10 @@
     {
       "name": "Eastern Virginia Medical School",
       "position": "Senior Research Associate, Computational Biology",
+      "location": "Norfolk, VA",
       "url": "https://caranathunge.github.io/promor/",
-      "startDate": "2021-09-01",
-      "endDate": "2024-03-31",
+      "startDate": "2021",
+      "endDate": "2024",
       "summary": "Digital patient project",
       "highlights": [
         "Collaborated with cross-functional teams, which included mass spectrometrists, computer scientists, and clinicians to analyze and interpret proteomics and clinical data to identify early detection biomarkers for prostate cancer.",
@@ -55,9 +56,10 @@
     {
       "name": "University of Florida",
       "position": "Postdoctoral Associate",
-      "url": "",
-      "startDate": "2018-07-01",
-      "endDate": "2021-06-30",
+      "url": "https://mcdaniellab.biology.ufl.edu/",
+      "location": "Gainesville, FL",
+      "startDate": "2018",
+      "endDate": "2021",
       "summary": "Eco-system dynamics in the rapidly changing Arctic",
       "highlights": [
         "Collaborated with multi‑disciplinary research teams from 2 universities to study rapidly changing Arctic ecosystems.",
@@ -70,9 +72,10 @@
     {
       "name": "Mississippi State University",
       "position": "Graduate Teaching/Research Assistant",
-      "url": "",
-      "startDate": "2013-08-19",
-      "endDate": "2018-05-04",
+      "url": "https://markwelchmsu.wordpress.com/welcome/",
+      "location": "Starkville, MS",
+      "startDate": "2013",
+      "endDate": "2018",
       "summary": "The functional and adaptive role of short tandem repeats (STRs)",
       "highlights": [
         "Developed qPCR assays for short tandem repeat (STR) containing genes and performed molecular tests and procedures to investigate the role of STRs in gene expression regulation in common sunflower",
@@ -85,9 +88,10 @@
     {
       "name": "Wayamba University of Sri Lanka",
       "position": "Assistant Lecturer",
-      "url": "",
-      "startDate": "2011-11-01",
-      "endDate": "2013-07-01",
+      "url": "https://www.wyb.ac.lk/",
+      "location": "Makandura, Sri Lanka",
+      "startDate": "2011",
+      "endDate": "2013",
       "summary": "Research and teaching",
       "highlights": [
         "Supervised 2 undergraduate research projects resulting in 2 peer-reviewed publications.",
