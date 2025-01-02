@@ -233,17 +233,66 @@
   ],
   "skills": [
     {
-      "name": "Physics",
+      "name": "Programming languages",
       "level": "Master",
-      "icon": "fa-solid fa-hashtag",
+      "icon": "",
+      "keywords": ["Python", "R", "Perl", "Bash"]
+    },
+    {
+      "name": "Data Analysis & Bioinformatics Tools",
+      "level": "Master",
+      "icon": "",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "High Performance Computing Clusters (HPC)",
+        "SLURM",
+        "conda",
+        "Bioconductor",
+        "R package development (testthat, roxygen, pkgdown)"
       ]
+    },
+    {
+      "name": "Version Control",
+      "level": "Master",
+      "icon": "",
+      "keywords": ["git", "GitHub"]
+    },
+    {
+      "name": "Data Visualization",
+      "level": "Master",
+      "icon": "",
+      "keywords": ["ggplot2", "matplotlib"]
+    },
+    {
+      "name": "Analysis & Reporting",
+      "level": "Master",
+      "icon": "",
+      "keywords": ["RMarkdown", "Quarto", "Jupyter Notebook", "LaTeX"]
+    },
+    {
+      "name": "Omics Disciplines",
+      "level": "Master",
+      "icon": "",
+      "keywords": ["Genomics (RADSeq, Target capture sequencing)", "Proteomics (DIA)", "Transcriptomics (bulk RNA-seq)", "ChIP-seq"]
+    },
+    {
+      "name": "NGS Data Analysis",
+      "level": "Master",
+      "icon": "",
+      "keywords": [
+        "Genome/Transcriptome Assembly (Bowtie, BWA, Trinity, samtools)",
+        " Differential Expression (DESeq2, edgeR)",
+        "Enrichment Analysis (blast2GO)",
+        "Databases (NCBI, GTEx, TCGA,COSMIC)",
+        "ChIP-seq Analysis (MACS2, deepTools)",
+        "Variant analysis (IGV)",
+        "Tandem Repeats (RepeatSeq, Tandem Repeat Finder)"
+      ]
+    },
+    {
+      "name": "Molecular Techniques",
+      "level": "Master",
+      "icon": "",
+      "keywords": ["PCR", "qPCR", "DNA and RNA isolation", "NGS library preparation"]
     }
   ],
   "languages": [
