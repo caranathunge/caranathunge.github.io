@@ -2,8 +2,6 @@
 
 <div align="center">
 
-[![Preview](readme_preview/al-folio-preview.png)](https://alshedivat.github.io/al-folio/)
-
 **This repository is based on [Jekyll](https://jekyllrb.com/) theme for academics. Please visit [al-folio](https://alshedivat/al-folio) to get started on your own website.**
 
 ---
