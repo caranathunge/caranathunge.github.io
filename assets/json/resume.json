@@ -29,7 +29,7 @@
       "location": "Houston, TX",
       "startDate": "2024",
       "endDate": "",
-      "summary": "Gene fusions as candidates for cancer vaccines",
+      "summary": "Project: Gene fusions as candidates for cancer vaccines",
       "highlights": [
         "Collaborated with multidisciplinary teams of molecular biologists, immunologists, and clinicians to design mRNA‐based vaccines for specific breast cancer subtypes and blood cancers.",
         "Developed an automated pipeline with R and Python that reduced processing time for identifying gene fusion candidates for vaccines from hours to seconds, achieving over a 99% improvement in efficiency",
@@ -45,7 +45,7 @@
       "url": "https://caranathunge.github.io/promor/",
       "startDate": "2021",
       "endDate": "2024",
-      "summary": "Digital patient project",
+      "summary": "Project: Digital patient",
       "highlights": [
         "Collaborated with cross-functional teams, which included mass spectrometrists, computer scientists, and clinicians to analyze and interpret proteomics and clinical data to identify early detection biomarkers for prostate cancer.",
         "Spearheaded a project to develop the R package, promor, to streamline proteomics data analysis and machine learning based predictive modeling, resulting in 2 peer reviewed publications and 3 presentations",
@@ -60,7 +60,7 @@
       "location": "Gainesville, FL",
       "startDate": "2018",
       "endDate": "2021",
-      "summary": "Eco-system dynamics in the rapidly changing Arctic",
+      "summary": "Project: Eco-system dynamics in the rapidly changing Arctic",
       "highlights": [
         "Collaborated with multi‑disciplinary research teams from 2 universities to study rapidly changing Arctic ecosystems.",
         "Collected and processed Arctic moss samples for DNA isolation and constructed NGS libraries for Illumina sequencing to support genomic research on Arctic ecosystems.",
@@ -76,7 +76,7 @@
       "location": "Starkville, MS",
       "startDate": "2013",
       "endDate": "2018",
-      "summary": "The functional and adaptive role of short tandem repeats (STRs)",
+      "summary": "Project: The functional and adaptive role of short tandem repeats (STRs)",
       "highlights": [
         "Developed qPCR assays for short tandem repeat (STR) containing genes and performed molecular tests and procedures to investigate the role of STRs in gene expression regulation in common sunflower",
         "Conducted statistical, differential expression, and enrichment analysis on bulk RNA-seq, qPCR, and PCR data identifying over 400 STRs involved in gene expression regulation in sunflowers, contributing to significant discoveries in plant biology and functional tandem repeats",
