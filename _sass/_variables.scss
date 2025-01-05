@@ -24,6 +24,7 @@ $pink-color: #f92080 !default;
 $pink-color-light: #ffdddd !default;
 $yellow-color: #efcc00 !default;
 $burgundy-color: #b45a6d !default;
+$light-burgundy-color: color.adjust($burgundy-color, $lightness: 25%);
 
 $grey-color: #828282 !default;
 $grey-color-light: color.adjust($grey-color, $lightness: 40%);
