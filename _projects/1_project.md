@@ -72,4 +72,3 @@ populations and gene expression divergence between species**. Our work highlight
 <div class="caption">
     You can also have artistically styled 2/3 + 1/3 images, like these.
 </div>
-
