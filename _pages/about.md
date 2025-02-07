@@ -24,10 +24,10 @@ Though my current work revolves around cancer genomics and immunotherapy, my jou
 I earned my [Ph.D. in Biological Sciences](https://www.biology.msstate.edu/) from [Mississippi State University](https://www.msstate.edu/) under the guidance of [Mark Welch](https://markwelchmsu.wordpress.com/welcome/).
 My dissertation focussed on the role of **short tandem repeats** (STRs) in rapid adaptive evolution. Using the common sunflower (_Helianthus annuus_) as a model system, I studied how STRs fine-tune gene expression in response to environmental changes.
 
-After completing my Ph.D., I accepted a postdoctoral position in [Stuart McDaniel's lab](https://mcdaniellab.biology.ufl.edu/) at the [University of Florida](https://www.ufl.edu/), where I studied rapidly changing Arctic eco-systems.
-My postdoc gave me an opportunity to step out of my comfort zone - both scientifically and literally. I went from sunflowers to mosses and then from Mississippi heat to Arctic tundra.
+After completing my Ph.D., I accepted a postdoctoral position in [Stuart McDaniel's lab](https://mcdaniellab.biology.ufl.edu/) at the [University of Florida](https://www.ufl.edu/), where I studied **rapidly changing Arctic eco-systems**.
+My postdoc gave me an opportunity to step out of my comfort zone - both scientifically and literally. I went from sunflowers to mosses and from Mississippi to the Arctic tundra.
 But more importantly, it is during this time that I discovered my passion for bioinformatics. I realized that while benchwork no longer excited me, the process of analyzing data, and finding meaningful patterns in biological data did.
 
-This realization led me to a position at the [Eastern Virginia Medical School](https://www.evms.edu/), where I transitioned into bioinformatics focused research, gaining experience in tool development and cancer biomarker discovery.
+This realization led me to a position at the [Eastern Virginia Medical School](https://www.evms.edu/), where I transitioned into bioinformatics focused research, gaining experience in **tool development and cancer biomarker discovery**.
 Looking back, I truly believe that my combined experience in wet-lab and computational analysis has shaped the way I approach bioinformatics.
 Now, my goal is to continue leveraging biological data to drive biomedical research forward, developing new ways to transform large biological datasets into actionable discoveries, and, last but not least, sharing the magic of bioinformatics with future scientists.
