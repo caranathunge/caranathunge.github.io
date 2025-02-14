@@ -19,12 +19,12 @@ social: false # includes social icons at the bottom of the page
 Hi! My name is **Chathurani Ranathunge**.
 I am a bioinformatics scientist with over a decade of experience working with multiple types of Next Generation Sequencing (NGS) data.
 I currently work as the **Lead Bioinformatics Scientist** at the [University of Houston's](https://uh.edu/) Sequencing and Gene Editing core ([UHSEQ](https://uhseq.nsm.uh.edu/)), where I design and develop bioinformatics pipelines for cancer immunotherapy research.
-Though my current work revolves around cancer genomics and immunotherapy, my journey began in **evolutionary biology and population genetics**.
+Though my current work revolves around cancer genomics and immunotherapy, my scientific journey began in **evolutionary biology and population genetics**.
 
-I earned my [Ph.D. in Biological Sciences](https://www.biology.msstate.edu/) from [Mississippi State University](https://www.msstate.edu/) under the guidance of [Mark Welch](https://markwelchmsu.wordpress.com/welcome/).
+I earned my [Ph.D. in Biological Sciences](https://www.biology.msstate.edu/) from [Mississippi State University](https://www.msstate.edu/) under the guidance of [Dr. Mark Welch](https://markwelchmsu.wordpress.com/welcome/).
 My dissertation focussed on the role of **short tandem repeats** (STRs) in rapid adaptive evolution. Using the common sunflower (_Helianthus annuus_) as a model system, I studied how STRs fine-tune gene expression in response to environmental changes.
 
-After completing my Ph.D., I accepted a postdoctoral position in [Stuart McDaniel's lab](https://mcdaniellab.biology.ufl.edu/) at the [University of Florida](https://www.ufl.edu/), where I studied **rapidly changing Arctic eco-systems**.
+After completing my Ph.D., I accepted a postdoctoral position in [Dr. Stuart McDaniel's lab](https://mcdaniellab.biology.ufl.edu/) at the [University of Florida](https://www.ufl.edu/), where I studied **rapidly changing Arctic eco-systems**.
 My postdoc gave me an opportunity to step out of my comfort zone - both scientifically and literally. I went from sunflowers to mosses and from Mississippi to the Arctic tundra.
 But more importantly, it is during this time that I discovered my passion for bioinformatics. I realized that while benchwork no longer excited me, the process of analyzing data, and finding meaningful patterns in biological data did.
 
