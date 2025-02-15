@@ -34,7 +34,7 @@ were located in the UTRs, in locations ideal for regulating gene expression.
 [We also compared this special group of eSTRs to anonymou STRs within the sunflower](https://doi.org/10.1007/s00438-022-01920-3), looking for signatures of selection, which would solidify our hypothesis that these eSTRs are indeed important in sunflower adaptation.
 We found that compared to anonymous or predominantly neutral STRs, these eSTRs showed lower allelic diversity, heterozygozity and allelic richness, indicating higher relative rates of purifying selection. We also found that at some eSTRs, allele length significantly correlated with latitude, which aligned with the predictions of the tuninig knob hypthesis.
 
-## The role micrpsatellites (STRs) in population and species divergence
+## The role of microsatellites (STRs) in population and species divergence
 
 [We also explored the role of microsatellites in gene expression divergence among closely related _Helianthus_ species](https://doi.org/10.3390/sym13060933). We compared transcriptomes of 50 individuals from five species and
 discovered a significant pattern: **genes containing microsatellites in non-coding regions, such as UTRs, were more likely to be differentially expressed between species than genes with microsatellites
@@ -54,7 +54,7 @@ microsatellites may be under different selective pressures, leading to increased
     </div>
 </div>
 <div class="caption">
-    On the left, sampling natural populations of sunflower in Spring, TX. On the right, wild sunflower plants growing in our common garden back in Starkville, MS>
+    On the left, sampling natural populations of sunflower in Spring, TX. On the right, wild sunflower plants growing in our common garden back in Starkville, MS.
 </div>
 
 ## Clinal patterns of variation in eSTRs in sunflower
