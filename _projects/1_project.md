@@ -59,7 +59,7 @@ microsatellites may be under different selective pressures, leading to increased
 
 ## Clinal patterns of variation in eSTRs in sunflower
 
-To further investigate the relationship between microsatellite length variation and gene expression, we conducted a [targeted study focusing on five eSTRs](https://doi.org/10.3390/sym13060933) in _Helianthus annuus_ populations across a
+To further investigate the relationship between microsatellite length variation and gene expression, we conducted a [targeted study focusing on five eSTRs](https://doi.org/10.3390/biom14080944) in _Helianthus annuus_ populations across a
 latitudinal gradient. We found **a significant correlation between eSTR length and gene expression for an eSTR located within the CHUP1 gene, which is involved in chloroplast movement** . This finding
 suggests that **this specific eSTR might contribute to sunflower adaptation across different environments** and that longer or shorter alleles may be favored in extreme environmental conditions,
 
