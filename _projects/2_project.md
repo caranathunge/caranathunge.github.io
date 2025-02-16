@@ -2,7 +2,7 @@
 layout: page
 title: Eco-system dynamics in the Arctic
 description: How moss host genetics shape their microbiomes and function
-img: assets/img/15.jpg
+img: assets/img/15.JPG
 importance: 2
 category: work
 ---
@@ -19,11 +19,11 @@ Please read on to find out more...
         {% include figure.liquid loading="eager" path="assets/img/11.JPG" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/background.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/mosquitoes.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    Perks of the job: getting to visit these beautiful sites in Alaska was certainly a perk of my postdoc. On the left, a lake close to one of our sampling sites in Fairbanks, AK. Middle, Toolik Field Station in the distance. Toolik was where so many researchers from across the world gathered to conduct field experiments and collect data in the Arctic. On the right, another one of our moss collection sites near Toolik, overlooking the Brooks Range. In the distance, the treacherous Dalton highway snakes alongside the Trans-Alaska pipeline, cutting through vast landscape. Our truck, a tiny speck by the roadside, shows how far up we had had to climb to collect the samples.
+    Perks of the job: getting to visit these beautiful sites in Alaska was certainly a perk of my postdoc. On the left, a lake close to one of our sampling sites in Fairbanks, AK. Middle, Toolik Field Station in the distance. Toolik was where so many researchers from across the world gathered to conduct field experiments and collect data in the Arctic. On the right, Arctic's beauty comes withits own set of challenges - swarms of mosquitoes surround us as we survey the field site (Phot credit: Stuart McDaniel)
 </div>
 
 ## Overview
@@ -36,6 +36,15 @@ Our long-term goal was to understand the ecosystem-scale consequences of climate
 **We focused on how moss population genetics and species diversity shape the assembly and function of the moss microbiome**,
 particularly the N-fixing microbiomes of feather mosses **_Hylocomium splendens_** and **_Pleurozium schreberi_**.
 Additionally, we studied the evolutionary history of the genus **_Aulacomnium_**, an under-studied, yet an important contributor to the function of these ecosystems.
+
+<div class="row">
+     <div class="col-sm mt-3 mt-md-0">
+         {% include figure.liquid loading="eager" path="assets/img/background.jpg" title="brooks range" class="img-fluid rounded z-depth-1" %}
+     </div>
+</div>
+<div class="caption">
+    Another one of our moss collection sites near Toolik, overlooking the Brooks Range. In the distance, the treacherous Dalton highway snakes alongside the Trans-Alaska pipeline, cutting through the vast landscscape. Our truck, a tiny speck by the roadside, shows how far up we had had to climb to collect the samples.
+</div>
 
 ## Highlights
 
