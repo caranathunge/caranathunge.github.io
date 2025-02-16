@@ -33,7 +33,7 @@ My postdoctoral work was focused on investigating the roles of mosses (bryophyte
 Mosses are an important component of these ecosystems because they account for approximately half of the net primary productivity of these regions and drive soil organic layer C accumulation.
 Additionally, **moss-associated microbes are the primary source of biologically fixed N inputs in these nitrogen-limited environments**.
 Our long-term goal was to understand the ecosystem-scale consequences of climate change on community assembly and function and how this impacts biodiversity.
-**We focused on how moss population genetics and species diversity shape the assembly and function of the moss microbiome**, 
+**We focused on how moss population genetics and species diversity shape the assembly and function of the moss microbiome**,
 particularly the N-fixing microbiomes of feather mosses **_Hylocomium splendens_** and **_Pleurozium schreberi_**.
 Additionally, we studied the evolutionary history of the genus **_Aulacomnium_**, an under-studied, yet an important contributor to the function of these ecosystems.
 
