@@ -31,8 +31,8 @@ were located in the UTRs, in locations ideal for regulating gene expression {% c
 
 ## eSTRs are under purifying selection
 
-[We also compared this special group of eSTRs to anonymou STRs within the sunflower](https://doi.org/10.1007/s00438-022-01920-3), looking for signatures of selection, which would solidify our hypothesis that these eSTRs are indeed important in sunflower adaptation.
-We found that compared to anonymous or predominantly neutral STRs, these eSTRs showed lower allelic diversity, heterozygozity and allelic richness, indicating higher relative rates of purifying selection.
+[We also compared this special group of eSTRs to anonymous STRs within the sunflower](https://doi.org/10.1007/s00438-022-01920-3), looking for signatures of selection, which would solidify our hypothesis that these eSTRs are indeed important in sunflower adaptation.
+We found that compared to anonymouss or predominantly neutral STRs, these eSTRs showed lower allelic diversity, heterozygozity and allelic richness, indicating higher relative rates of purifying selection.
 We also found that at some eSTRs, allele length significantly correlated with latitude, which aligned with the predictions of the tuninig knob hypthesis {% cite ranathunge2022comparative %}.
 
 ## The role of microsatellites (STRs) in population and species divergence
@@ -42,7 +42,7 @@ from five species and discovered a significant pattern:
 **genes containing microsatellites in non-coding regions, such as UTRs, were more likely to be differentially expressed between species than genes with microsatellites in coding regions or those lacking microsatellites.**
 This trend was consistent across all species pairs, suggesting **non-coding microsatellites may be crucial in shaping gene expression divergence during speciation**.
 We also observed greater genetic divergence in transcripts containing microsatellites compared to those without, as measured by pairwise F<sub>ST</sub> at SNPs. This suggests that
-**genes withmicrosatellites may be under different selective pressures, leading to increased genetic differentiation among species** {% cite ranathunge2021microsatellites %}.
+**genes with microsatellites may be under different selective pressures, leading to increased genetic differentiation among species** {% cite ranathunge2021microsatellites %}.
 
 **Further evidence points to the influence of microsatellites on gene expression divergence among populations of the same species**.
 [We found that microsatellite-containing differentially expressed genes were related to transcription regulation and transcription factor activity](https://doi.org/10.1111/mec.14522)
@@ -74,7 +74,7 @@ This finding suggests that **this specific eSTR might contribute to sunflower ad
     </div>
 </div>
 <div class="caption">
-    This figure summarizes some of our key findings from the sunflower STR project. Figure a: the main results from {% cite ranathunge2020transcribed %} showing STRs with siginificant allele length effects on gene expression. The patterns we observed were consistent with that of 
+    This figure summarizes some of our key findings from the sunflower STR project. Figure a: the main results from {% cite ranathunge2020transcribed %} showing STRs with significant allele length effects on gene expression. The patterns we observed were consistent with that of 
     <a href="https://www.cell.com/trends/genetics/fulltext/S0168-9525(97)01008-1" target="_blank">the "tuning knob" model</a>. Figure b: a subset of those eSTRs showed consistent patterns of allele length effects on gene expression across a broader latitudinal range to that of the first experiment shown in figure a. 
 </div>
 
