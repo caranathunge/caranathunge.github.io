@@ -43,7 +43,7 @@ during speciation**.
 We also observed **greater genetic divergence in transcripts containing microsatellites compared to those without, as measured by pairwise F<sub>ST</sub> at SNPs**. This suggests that **genes with
 microsatellites may be under different selective pressures, leading to increased genetic differentiation among species**.
 
-**Further evidence points to the influence of microsatellites on gene expression divergence among populations of the same species**. [We found that microsatellite-containing differentially expressed genes were related to transcription regulation and transcription factor activity](https://doi.org/10.1111/mec.14522) and that genes containing repeats of A or AG are more likely to be differentially expressed among populations from a latitudinal cline**. This suggests microsatellites may play a key role in regulating genes involved in important biological processes that contribute to population and species differentiation.
+**Further evidence points to the influence of microsatellites on gene expression divergence among populations of the same species**. [We found that microsatellite-containing differentially expressed genes were related to transcription regulation and transcription factor activity](https://doi.org/10.1111/mec.14522) and that genes containing repeats of A or AG are more likely to be differentially expressed among populations from a latitudinal cline\*\*. This suggests microsatellites may play a key role in regulating genes involved in important biological processes that contribute to population and species differentiation.
 
 <div class="row d-flex">
     <div class="col-sm mt-3 mt-md-0 d-flex align-items-center">
