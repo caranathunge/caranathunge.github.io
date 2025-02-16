@@ -23,7 +23,7 @@ Please read on to find out more...
     </div>
 </div>
 <div class="caption">
-    Perks of the job: getting to visit these beautiful sites in Alaska was certainly a perk of my postdoc. On the left, a lake close to one of our sampling sites in Fairbanks, AK. Middle, Toolik Field Station in the distance. Toolik was where so many researchers from across the world gathered to conduct field experiments and collect data in the Arctic. On the right, Arctic's beauty comes withits own set of challenges - swarms of mosquitoes surround us as we survey the field site (Phot credit: Stuart McDaniel)
+    Perks of the job: getting to visit these beautiful sites in Alaska was certainly a perk of my postdoc. On the left, a lake close to one of our sampling sites in Fairbanks, AK. Middle, Toolik Field Station in the distance. Toolik Field Station is a place wher researchers from across the world gather to conduct field experiments and collect data in the Arctic Alaska. On the right, Arctic's beauty comes with its own set of challenges - swarms of mosquitoes surround us as we survey the field site (Photo credit: Stuart McDaniel)
 </div>
 
 ## Overview
