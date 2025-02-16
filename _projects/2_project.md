@@ -2,80 +2,51 @@
 layout: page
 title: Eco-system dynamics in the Arctic
 description: How moss host genetics shape their microbiomes and function
-img: assets/img/3.jpg
+img: assets/img/15.jpg
 importance: 2
 category: work
 giscus_comments: true
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
-
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+After graduating with my PhD, I joined Dr. Stuart McDaniel's group at the University of Florida as a postdoc. My postdoctoral project provided some life-changing experiences in the Arctic.
+The goal of our project was to study the rapidly changing Arctic ecosystems, fcousing particularly on mosses, their microbiomes, and function. Why are mosses important in this context?
+Please read on to find out more...
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/2.JPG" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/11.JPG" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/background.JPG" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
+    Perks of the job: getting to visit these beautiful sites in Alaska was certainly a perk of my postdoc. On the left, a lake close to one of our sampling sites in Fairbanks, AK. Middle, Toolik Field Station in the distance. Toolik was where so many researchers from across the world gathered to conduct field experiments and collect data in the Arctic. On the right, another one of our moss collection sites near Toolik, overlooking the Brooks Range. In the distance, the treacherous Dalton highway snakes alongside the Trans-Alaska pipeline, cutting through vast landscape. Our truck, a tiny speck by the roadside, shows how far up we had had to climb to collect the samples.
 </div>
+
+## Overview
+
+My postdoctoral work was focused on investigating the roles of mosses (bryophytes) and their associated microbes in nitrogen (N) cycling within arctic tundra and boreal forest ecosystems.
+The Arctic is warming up twice as fast as rest of the world, Therefore, to understand how ecosystems would respond to climate change, it was a good place to start.
+Mosses are an important component of these ecosystems because they account for approximately half of the net primary productivity of these regions and drive soil organic layer C accumulation.
+Additionally, moss-associated microbes are the primary source of biologically fixed N inputs in these nitrogen-limited environments.
+Our long-term goal was to understand the ecosystem-scale consequences of climate change on community assembly and function and how this impacts biodiversity.
+We focused on how moss population genetics and species diversity shape the assembly and function of the moss microbiome, particularly the N-fixing microbiomes of feather mosses **_Hylocomium splendens_**
+and **_Pleurozium schreberi_**.
+Additionally, we studied the evolutionary history of the genus **_Aulacomnium_**, an under-studied, yet an important contributor to the function of these ecosystems.
+
+## Highlights
+
+## Key contributions
+
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/9.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    This image can also have a caption. It's like magic.
+    Collecting moss samples in the Arctic. We used these samples to conduct three types of experiements at three different labs: molecular analysis to investigate moss host genetics at the University of Florida, microbiome analysis at the University of Colorado, and measurements of N fixation with stable isotopes at the University of Northern Arizona. My responsibilities included generating ddRADseq and target capture sequencing data from these samples and conducting population genetic and phylogenetic data analysis.
 </div>
-
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
-
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
-
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-{% raw %}
-
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
-
-{% endraw %}
