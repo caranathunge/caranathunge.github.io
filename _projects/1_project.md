@@ -68,5 +68,15 @@ in _Helianthus annuus_ populations across a latitudinal gradient.
 We found **a significant correlation between eSTR length and gene expression for an eSTR located within the CHUP1 gene, which is involved in chloroplast movement** {% cite ranathunge2024clinal %}.
 This finding suggests that **this specific eSTR might contribute to sunflower adaptation across different environments** and that longer or shorter alleles may be favored in extreme environmental conditions,
 
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/fig_1.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    This figure summarizes some of our key findings from the sunflower STR project. Figure a: the main results from {% cite ranathunge2020transcribed %} showing STRs with siginificant allele length effects on gene expression. The patterns we observed were consistent with that of [the "tuning knob" model](https://www.cell.com/trends/genetics/fulltext/S0168-9525(97)01008-1). Figure b: a subset of those eSTRs showed consistent pattenrs of allele length effects on gene expression across a broader latitudinal range to that of the first experiment shown in figure a.
+</div>
+
+
 Our research, combined with that of others, **strongly suggests that STRs, particularly those located in transcribed regions, can contribute to both gene expression variation within
 populations and gene expression divergence between species**. Our work highlights the potential importance of these often-overlooked genomic elements in adaptation and evolution.
