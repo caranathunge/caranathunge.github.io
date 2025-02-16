@@ -75,7 +75,7 @@ This finding suggests that **this specific eSTR might contribute to sunflower ad
 </div>
 <div class="caption">
     This figure summarizes some of our key findings from the sunflower STR project. Figure a: the main results from {% cite ranathunge2020transcribed %} showing STRs with siginificant allele length effects on gene expression. The patterns we observed were consistent with that of 
-    <a href="https://www.cell.com/trends/genetics/fulltext/S0168-9525(97)01008-1" target="_blank">the "tuning knob" model</a>. igure b: a subset of those eSTRs showed consistent pattenrs of allele length effects on gene expression across a broader latitudinal range to that of the first experiment shown in figure a. 
+    <a href="https://www.cell.com/trends/genetics/fulltext/S0168-9525(97)01008-1" target="_blank">the "tuning knob" model</a>. Figure b: a subset of those eSTRs showed consistent patterns of allele length effects on gene expression across a broader latitudinal range to that of the first experiment shown in figure a. 
 </div>
 
 Our research, combined with that of others, **strongly suggests that STRs, particularly those located in transcribed regions, can contribute to both gene expression variation within
