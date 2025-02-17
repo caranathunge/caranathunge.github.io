@@ -38,20 +38,21 @@ Our long-term goal was to understand the ecosystem-scale consequences of climate
 **We focused on how moss population genetics and species diversity shape the assembly and function of the moss microbiome**,
 particularly the N-fixing microbiomes of feather mosses **_Hylocomium splendens_** and **_Pleurozium schreberi_**.
 
-Additionally, we studied the evolutionary history of the genus **_Aulacomnium_**, an under-studied, yet an important contributor to the function of these ecosystems. 
+Additionally, we studied the evolutionary history of the genus **_Aulacomnium_**, an under-studied, yet an important contributor to the function of these ecosystems.
 **_Aulacomnium_** was selected as a study system owing to some key findings from our group's previous work. We had observed that closely related species within this genus support distinct microbiome
- communities. This characteristic makes **_Aulacomnium_** a valuable model for identifying specific genetic variants that influence microbiome assembly,
- particularly in the context of gene flow between species.
+communities. This characteristic makes **_Aulacomnium_** a valuable model for identifying specific genetic variants that influence microbiome assembly,
+particularly in the context of gene flow between species.
 
 ## Evolutionary history of the genus, **_Aulacomnium_**
 
-This research project focused on the species within the **_Aulacomnium_** genus. Using ddRADseq and target capture sequencing data, we investigated the phylogenetic and population genetic relationships 
+This research project focused on the species within the **_Aulacomnium_** genus. Using ddRADseq and target capture sequencing data, we investigated the phylogenetic and population genetic relationships
 within this ecologically significant group of bryophytes in the Arctic. Specifically, we investigated three closely related species: **_Aulacomnium palustre_**, **_A. turgidum_**, and **_A. acuminatum_**.
-**_A. palustre_** exhibits a broad distribution, ranging from temperate forests to arctic tundra, while **_A. turgidum_** and **_A. acuminatum_** are sympatric with **_A. palustre_** in 
+**_A. palustre_** exhibits a broad distribution, ranging from temperate forests to arctic tundra, while **_A. turgidum_** and **_A. acuminatum_** are sympatric with **_A. palustre_** in
 sub-arctic and arctic zones.
 
 Our primary objectives regarding **_Aulacomnium_** were:
-- To test the hypothesis that **_A. acuminatum_** is a hybrid species resulting from the hybridization of **_A. palustre_** and **_A. turgidum**
+
+- To test the hypothesis that **_A. acuminatum_** is a hybrid species resulting from the hybridization of **_A. palustre_** and **\_A. turgidum**
 - To determine whether there is ongoing gene flow among these species in sympatric populations.
 
 <div class="row">
@@ -86,7 +87,5 @@ Our primary objectives regarding **_Aulacomnium_** were:
 - Developed bioinformatic pipelines for processing target-capture sequencing data generated from the GoFlag408 probe set. Conducted phylogenetic analysis (RAxML, ASTRAL), and assessed gene tree discordance and hybridization events (IQ-TREE, DENSITREE, PhyParts, PhyloNetworks).
 - Successfully constructed a well-supported phylogeny of the moss genus **_Aulacomnium_** using phylogenomic analyses of 399 targeted nuclear loci from the GoFlag408 probe se
 
-
-I often say that, when it comes to rapidly changing Arctic eco-systems, **mosses are tiny, but mighty**! 
-It is important to remember that **mosses and their microbiomes are an important piece of the puzzle of predicting how Arctic ecosystems will respond to continued climate change.** 
-
+I often say that, when it comes to rapidly changing Arctic eco-systems, **mosses are tiny, but mighty**!
+It is important to remember that **mosses and their microbiomes are an important piece of the puzzle of predicting how Arctic ecosystems will respond to continued climate change.**
