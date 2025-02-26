@@ -52,3 +52,21 @@ $back-to-top-right: 30px;
 $back-to-top-diameter: 40px;
 $back-to-top-height: $back-to-top-diameter;
 $back-to-top-width: $back-to-top-diameter;
+
+
+@media (max-width: 768px) {
+    .author-profile {
+        display: flex;
+        justify-content: center; /* Centers the profile image */
+        align-items: center;
+        text-align: center; /* Ensures text and image stay aligned */
+        margin-top: 20px; /* Adjust spacing */
+    }
+
+    .author-profile img {
+        width: 100px !important; /* Reduce size */
+        height: auto !important;
+        border-radius: 50%;
+        max-width: 30%; /* Ensures it does not get too big */
+    }
+}
