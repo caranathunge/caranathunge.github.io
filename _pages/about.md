@@ -28,6 +28,6 @@ After completing my Ph.D., I accepted a postdoctoral position in [Dr. Stuart McD
 My postdoc gave me an opportunity to step out of my comfort zone - both scientifically and literally. I went from sunflowers to mosses and from Mississippi to the Arctic tundra.
 But more importantly, it is during this time that I discovered my passion for bioinformatics. I realized that while benchwork no longer excited me, the process of analyzing data, and finding meaningful patterns in biological data did.
 
-This realization led me to a position at the [Eastern Virginia Medical School](https://www.evms.edu/), where I transitioned into bioinformatics focused research, gaining experience in **tool development and cancer biomarker discovery**.
+This realization led me to a position at the [Eastern Virginia Medical School](https://www.evms.edu/), where I transitioned into bioinformatics focused research, gaining experience in **tool development and cancer biomarker discovery**. While at EVMS, I developed an R package called [promor](https://caranathunge.github.io/promor/) that streamlines proteomics data analysis and predictive modeling. 
 Looking back, I truly believe that my combined experience in wet-lab and computational analysis has shaped the way I approach bioinformatics.
 Now, my goal is to continue leveraging biological data to drive biomedical research forward, developing new ways to transform large biological datasets into actionable discoveries, and, last but not least, sharing the magic of bioinformatics with future scientists.
