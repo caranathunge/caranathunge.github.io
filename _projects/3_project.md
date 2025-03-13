@@ -37,11 +37,11 @@ fill that gap.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/promor_ProtAnalysisFlowChart_small.png", title="proteomics data analysis workflow" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/promor_ProtAnalysisFlowChart_small.png" title="proteomics" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    A snapshot of promor's capabilities.
+    promor:Proteomics data analysis workflow.
 </div>
 
 promor's workflow for proteomics data analysis includes functions for quality control, visualization, and differential expression analysis. It also has the capability to handle technical replicates in the
@@ -51,11 +51,11 @@ data. Visit the [promor website](https://caranathunge.github.io/promor/)for more
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/promor_ProtModelingFlowChart_small.png", title="predictive modeling workflow" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/promor_ProtModelingFlowChart_small.png" title="modeling" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    A snapshot of promor's capabilities.
+    promor: Predictive modeling workflow.
 </div>
 
 promor's workflow for building machine learning based predictive models provides access to over 200 ML algorithms via the R package [caret](https://topepo.github.io/caret/) used in the backend.
