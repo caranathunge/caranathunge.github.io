@@ -31,7 +31,7 @@ I was motivated to bulid promor **to streamline the transition from identifying 
 In many proteomics studies, it is not unusual to identify dozens or even hundreds of differentially expressed proteins between groups of interest (e.g., cancer stages or cancer vs. non-cancer patients).
 However, including all of them in a diagnostic test is often impractical and not useful. The challenge lies in selecting robust candidates that effectively stratify patient populations, which has led
 many scientists to turn to machine learning-based models. Existing proteomics data analysis tools lacked an efficient and reproducible workflow to streamline this process, and promor was designed to
-fill that gap { % cite ranathunge2023promor % }.
+fill that gap {% cite ranathunge2023promor %}.
 
 ## Proteomics data analysis
 
