@@ -23,7 +23,7 @@ at EVMS. Within the overarching goals of that project, we had the opportunity to
 While working with a research group **exploring proteomics-based biomarkers for early detection of prostate cancer**, I thought of developing a custom bioinformatics pipeline to cater the group's biomarker
 research. promor was built based on those initial efforts. With no experience whatsoever in software development of any kind, let alone R package development, I had a lot to learn about the best practices
 in the process. Looking back, I am surprised at how quickly the package came together - within just a few short months, promor made it to CRAN and a publication was in the works. Now, I am excited to see
-the package being used by research groups from around the world, and recently, **promor passed 7000 downloads on CRAN**.
+the package being used by research groups from around the world, and recently, [promor passed 7000 downloads on CRAN](https://cran.r-project.org/web/packages/promor/index.html).
 
 ## Motivation
 
