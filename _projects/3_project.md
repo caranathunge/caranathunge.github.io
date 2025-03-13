@@ -27,7 +27,7 @@ the package being used by research groups from around the world, and recently, *
 
 ## Motivation
 
-I was motivated to bulid promor to streamline the transition from identifying differentially expressed proteins in proteomics data to using them in predictive models for disease diagnosis or prognosis.
+I was motivated to bulid promor **to streamline the transition from identifying differentially expressed proteins in proteomics data to using them in predictive models for disease diagnosis or prognosis.**
 In many proteomics studies, it is not unusual to identify dozens or even hundreds of differentially expressed proteins between groups of interest (e.g., cancer stages or cancer vs. non-cancer patients).
 However, including all of them in a diagnostic test is often impractical and not useful. The challenge lies in selecting robust candidates that effectively stratify patient populations, which has led
 many scientists to turn to machine learning-based models. Existing proteomics data analysis tools lacked an efficient and reproducible workflow to streamline this process, and promor was designed to
@@ -60,4 +60,4 @@ data. Visit the [promor website](https://caranathunge.github.io/promor/)for more
 
 promor's workflow for building machine learning based predictive models provides access to over 200 ML algorithms via the R package [caret](https://topepo.github.io/caret/) used in the backend.
 In addition to model building, this workflow includes functions for quality control and visualization (e.g. feature plots, variable importance plots, ROC curves).
-For more information and detailed tutorials, visit the [prmor website](https://caranathunge.github.io/promor/).
+For more information and detailed tutorials, visit the [promor website](https://caranathunge.github.io/promor/).
