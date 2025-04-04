@@ -6,7 +6,12 @@
     "email": "caranathunge86@gmail.com",
     "phone": "",
     "url": "https://caranathunge.github.io",
-    "summary": "",
+    "summary": [
+      "Bioinformatics Scientist with 10+ years of experience, specializing in cancer biomarker discovery, immuno-oncology, and evolutionary biology.",
+      "Experienced in analyzing multiple types of Next Generation Sequencing (NGS) data (RNA-seq, ChIP-seq, genomics, proteomics). ",
+      "Proficient in R and Python. Developed and published the R package promor (7000+ downloads) for mass spectrometry-based proteomics data analysis. ",
+      "Experienced in leading interdisciplinary collaborations in both clinical and research settings."
+    ],
     "location": {
       "address": "",
       "postalCode": "",
@@ -32,9 +37,9 @@
       "summary": "Project: Gene fusions as candidates for cancer vaccines",
       "highlights": [
         "Collaborated with multidisciplinary teams of molecular biologists, immunologists, and clinicians to design mRNA‐based vaccines for specific breast cancer subtypes and blood cancers.",
-        "Developed an automated pipeline with R and Python that reduced processing time for identifying gene fusion candidates for vaccines from hours to seconds, achieving over a 99% improvement in efficiency",
-        "Built a reproducible, scalable, and efficient pipeline to streamline in-silico validation of gene fusions (Bash)reducing analysis time by 80%",
-        "Developed reproducible bioinformatics pipelines to analyze epigenetic data from ChIP-Seq experiments.",
+        "Developed an automated pipeline (R, Python) that reduced processing time for identifying gene fusion candidates for vaccines from hours to seconds, achieving over a 99% improvement in efficiency.",
+        "Built a pipeline for in-silico validation of  gene fusions from RNA-seq data, reducing analysis time by 80%",
+        "Developed bioinformatics pipelines to analyze epigenetic data from ChIP-Seq experiments.",
         "Delivered reports and presentations to external collaborators translating complex bioinformatics findings into actionable insights for experimental design and clinical research."
       ]
     },
