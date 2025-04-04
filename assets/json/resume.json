@@ -7,9 +7,12 @@
     "phone": "",
     "url": "https://caranathunge.github.io",
     "summary": [
-      "Bioinformatics Scientist with <strong>10+ years of experience</strong>, specializing in <strong>cancer biomarker discovery, immuno-oncology, and evolutionary biology.</strong>",
+      "Bioinformatics Scientist with <strong>10+ years of experience</strong>, specializing in <strong>cancer biomarker discovery, immuno-oncology, and evolutionary biology.</strong>.",
+
       "Experienced in analyzing multiple types of Next Generation Sequencing (NGS) data (RNA-seq, ChIP-seq, genomics, proteomics).",
+
       "Proficient in R and Python. Developed and published the R package promor (7000+ downloads) for mass spectrometry-based proteomics data analysis.",
+
       "Experienced in leading interdisciplinary collaborations in both clinical and research settings."
     ],
     "location": {
@@ -36,11 +39,11 @@
       "endDate": "",
       "summary": "Project: Gene fusions as candidates for cancer vaccines",
       "highlights": [
-        "Collaborated with multidisciplinary teams of molecular biologists, immunologists, and clinicians to design mRNA‐based vaccines for specific breast cancer subtypes and blood cancers.",
-        "Developed an automated pipeline (R, Python) that reduced processing time for identifying gene fusion candidates for vaccines from hours to seconds, achieving over a 99% improvement in efficiency.",
+        "<strong>Collaborated with multidisciplinary teams<strong> of molecular biologists, immunologists, and clinicians to design mRNA‐based vaccines for specific breast cancer subtypes and blood cancers.",
+        "Developed an automated pipeline <strong>(R, Python)<strong> that reduced processing time for identifying gene fusion candidates for vaccines from hours to seconds, achieving over a 99% improvement in efficiency.",
         "Built a pipeline for in-silico validation of  gene fusions from RNA-seq data, reducing analysis time by 80%",
-        "Developed bioinformatics pipelines to analyze epigenetic data from ChIP-Seq experiments.",
-        "Delivered reports and presentations to external collaborators translating complex bioinformatics findings into actionable insights for experimental design and clinical research."
+        "Developed bioinformatics pipelines to analyze epigenetic data from <strong>ChIP-Seq<strong> experiments.",
+        "<strong>Delivered reports and presentations to external collaborators<strong> translating complex bioinformatics findings into actionable insights for experimental design and clinical research."
       ]
     },
     {
@@ -52,10 +55,10 @@
       "endDate": "2024",
       "summary": "Project: Digital patient",
       "highlights": [
-        "Collaborated with cross-functional teams, which included mass spectrometrists, computer scientists, and clinicians to analyze and interpret proteomics and clinical data to identify early detection biomarkers for prostate cancer.",
-        "Spearheaded a project to develop the R package, promor, to streamline proteomics data analysis and machine learning based predictive modeling, resulting in 2 peer reviewed publications and 3 presentations",
-        "Created reproducible reports using RMarkdown and Quarto to effectively communicate results from statistical data analysis to both technical and non-technical stakeholders.",
-        "Utilized git/GitHub for version control to ensure collaboration and code integrity within the teams"
+        "Collaborated with cross-functional teams, which included mass spectrometrists, computer scientists, and clinicians to analyze and interpret <strong>proteomics and clinical data<strong> to identify <strong>early detection biomarkers<strong> for prostate cancer.",
+        "Spearheaded a project to develop the <strong>R package, promor, to streamline proteomics data analysis and machine learning based predictive modeling<strong>, resulting in 2 peer reviewed publications and 3 presentations",
+        "Created reproducible reports using <strong>RMarkdown and Quarto<strong> to effectively communicate results from statistical data analysis to both technical and non-technical stakeholders.",
+        "Utilized <strong>git/GitHub<strong> for version control to ensure collaboration and code integrity within the teams"
       ]
     },
     {
@@ -67,9 +70,9 @@
       "endDate": "2021",
       "summary": "Project: Eco-system dynamics in the rapidly changing Arctic",
       "highlights": [
-        "Collaborated with multi‑disciplinary research teams from 2 universities to study rapidly changing Arctic ecosystems.",
-        "Collected and processed Arctic moss samples for DNA isolation and constructed NGS libraries for Illumina sequencing to support genomic research on Arctic ecosystems.",
-        "Developed and maintained NGS data pipelines for automated processing of genomics data (RAD-seq and target capture sequencing), facilitating downstream population genetic, phylogenetic, and statistical analysis of Arctic mosses.",
+        "<strong>Collaborated with multi‑disciplinary research teams<strong> from 2 universities to study rapidly changing Arctic ecosystems.",
+        "Collected and processed Arctic moss samples for DNA isolation and <strong>constructed NGS libraries for Illumina sequencing<strong> to support genomic research on Arctic ecosystems.",
+        "Developed and maintained NGS data pipelines for automated processing of genomics data <strong>(RAD-seq and target capture sequencing)<strong>, facilitating downstream population genetic, phylogenetic, and statistical analysis of Arctic mosses.",
         "Provided training and guidance to 3 junior researchers/analysts, promoting their professional growth.",
         "Presented scientific reports and presentations to internal and external collaborators translating research findings into actionable insights for ecological studies."
       ]
@@ -83,8 +86,8 @@
       "endDate": "2018",
       "summary": "Project: The functional and adaptive role of short tandem repeats (STRs)",
       "highlights": [
-        "Developed qPCR assays for short tandem repeat (STR) containing genes and performed molecular tests and procedures to investigate the role of STRs in gene expression regulation in common sunflower",
-        "Conducted statistical, differential expression, and enrichment analysis on bulk RNA-seq, qPCR, and PCR data identifying over 400 STRs involved in gene expression regulation in sunflowers, contributing to significant discoveries in plant biology and functional tandem repeats",
+        "Developed <strong>qPCR assays<strong> for short tandem repeat (STR) containing genes and performed molecular tests and procedures to investigate the role of STRs in gene expression regulation in common sunflower",
+        "Conducted statistical, differential expression, and enrichment analysis on <strong>bulk RNA-seq<strong>, qPCR, and PCR data identifying over 400 STRs involved in gene expression regulation in sunflowers, contributing to significant discoveries in plant biology and functional tandem repeats",
         "Trained and mentored 7 junior researchers promoting their professional development",
         "Published 5 research articles (first author) and presented 12 research talks and 3 posters.",
         "Taught 4 lower level and 3 upper-level biology laboratory courses."
@@ -129,7 +132,7 @@
       "courses": ""
     }
   ],
-  "awards": [
+  "awards (selected)": [
     {
       "title": "Best Poster - Computational Mass Spectrometry",
       "date": "2022",
