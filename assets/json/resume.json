@@ -31,20 +31,20 @@
     ]
   },
   "work": [
-     {
-        "name": "FYR Bio",
-        "position": "Senior Computational Biologist",
-        "location": "Houston, TX (Remote)",
-        "startDate": "2025",
-        "endDate": "",
-        "summary": "Project: Multi-omics analysis for biomarker discovery and therapeutics",
-        "highlights": [
-          "Partnered with internal teams and external stakeholders to define analytical requirements, interpret results, and deliver data-driven insights across multiple disease programs",
-          "Led the development of FYR's proteomics data analysis pipeline and established internal quality control standards for omics data processing and interpretation",
-          "Presented analytical findings and recommendations to internal project teams and external stakeholders",
-          "Led integrative multi-omics analyses to support biomarker discovery and pharmacodynamic studies across oncology and neurodegenerative disease programs."
-        ]
-      },
+    {
+      "name": "FYR Bio",
+      "position": "Senior Computational Biologist",
+      "location": "Houston, TX (Remote)",
+      "startDate": "2025",
+      "endDate": "",
+      "summary": "Project: Multi-omics analysis for biomarker discovery and therapeutics",
+      "highlights": [
+        "Partnered with internal teams and external stakeholders to define analytical requirements, interpret results, and deliver data-driven insights across multiple disease programs",
+        "Led the development of FYR's proteomics data analysis pipeline and established internal quality control standards for omics data processing and interpretation",
+        "Presented analytical findings and recommendations to internal project teams and external stakeholders",
+        "Led integrative multi-omics analyses to support biomarker discovery and pharmacodynamic studies across oncology and neurodegenerative disease programs."
+      ]
+    },
     {
       "name": "University of Houston",
       "position": "Lead Bioinformatics Scientist",
