@@ -7,7 +7,7 @@
     "phone": "",
     "url": "https://caranathunge.github.io",
     "summary": [
-      "Bioinformatics Scientist with <strong>10+ years of experience</strong>, specializing in <strong>cancer biomarker discovery, immuno-oncology, and evolutionary biology.</strong>.",
+      "Bioinformatics Scientist with <strong>13+ years of experience</strong>, specializing in <strong>cancer biomarker discovery, immuno-oncology, and evolutionary biology.</strong>.",
 
       "Experienced in analyzing multiple types of Next Generation Sequencing (NGS) data (RNA-seq, ChIP-seq, genomics, proteomics).",
 
@@ -40,7 +40,7 @@
       "summary": "Project: Multi-omics analysis for biomarker discovery and therapeutics",
       "highlights": [
         "Partnered with internal teams and external stakeholders to define analytical requirements, interpret results, and deliver data-driven insights across multiple disease programs",
-        "Led the development of FYR's proteomics data analysis pipeline and established internal quality control standards for omics data processing and interpretation",
+        "<strong>Led the development of FYR's proteomics data analysis pipeline and established internal quality control standards for omics data processing and interpretation>",
         "Presented analytical findings and recommendations to internal project teams and external stakeholders",
         "Led integrative multi-omics analyses to support biomarker discovery and pharmacodynamic studies across oncology and neurodegenerative disease programs."
       ]
@@ -54,8 +54,7 @@
       "summary": "Project: Gene fusions as candidates for cancer vaccines",
       "highlights": [
         "<strong>Collaborated with multidisciplinary teams<strong> of molecular biologists, immunologists, and clinicians to design mRNA‐based vaccines for specific breast cancer subtypes and blood cancers.",
-        "Developed an automated pipeline <strong>(R, Python)<strong> that reduced processing time for identifying gene fusion candidates for vaccines from hours to seconds, achieving over a 99% improvement in efficiency.",
-        "Built a pipeline for in-silico validation of  gene fusions from RNA-seq data, reducing analysis time by 80%",
+        "Developed an automated pipeline <strong>(R, Python)<strong> that reduced processing time for identification and in-silico validation of gene fusion candidates for vaccines by 90%.",
         "Developed bioinformatics pipelines to analyze epigenetic data from <strong>ChIP-Seq<strong> experiments.",
         "<strong>Delivered reports and presentations to external collaborators<strong> translating complex bioinformatics findings into actionable insights for experimental design and clinical research."
       ]
