@@ -7,13 +7,10 @@
     "phone": "",
     "url": "https://caranathunge.github.io",
     "summary": [
-      "Bioinformatics Scientist with <strong>13+ years of experience</strong>, specializing in <strong>cancer biomarker discovery, immuno-oncology, and evolutionary biology.</strong>.",
-
-      "Experienced in analyzing multiple types of Next Generation Sequencing (NGS) data (RNA-seq, ChIP-seq, genomics, proteomics).",
-
-      "Proficient in R and Python. Developed and published the R package promor (12,000+ downloads) for mass spectrometry-based proteomics data analysis.",
-
-      "Experienced in leading interdisciplinary collaborations in both clinical and research settings."
+      "Computational Biologist with 13+ years of experience, specializing in transcriptomics, proteomics and NGS-based biomarker discovery for oncology.",
+      "Experienced in converting transcriptomics and proteomics pipelines into production software.",
+      "Designed and implemented LLM-assisted workflows to streamline omics data analysis, quality assessment, and biological interpretation.",
+      "Developed and published the R package promor (13,000+ downloads) for mass spectrometry-based proteomics data analysis and ML-based predictive modeling."
     ],
     "location": {
       "address": "",
@@ -39,10 +36,9 @@
       "endDate": "",
       "summary": "Project: Multi-omics analysis for biomarker discovery and therapeutics",
       "highlights": [
-        "Partnered with internal teams and external stakeholders to define analytical requirements, interpret results, and deliver data-driven insights across multiple disease programs",
-        "<strong>Led the development of FYR's proteomics data analysis pipeline and established internal quality control standards for omics data processing and interpretation>",
-        "Presented analytical findings and recommendations to internal project teams and external stakeholders",
-        "Led integrative multi-omics analyses to support biomarker discovery and pharmacodynamic studies across oncology and neurodegenerative disease programs."
+        "Led analytical strategy across multiple disease programs to address complex scientific questions and generate insights for decision-making.",
+        "<strong>Led the development of FYR's production-scale transcriptomics and proteomics pipelines using AWS infrastructure<strong>, including LLM-assisted automated workflows for data interpretation, quality assessment, and reporting.",
+        "Performed integrative multi-omics analyses supporting biomarker discovery, drug development, and pharmacodynamic studies across oncology and neurodegenerative disease programs."
       ]
     },
     {
